@@ -1,0 +1,4 @@
+Suma de dos numero
+Yo como usuario
+Quiero Sumar dos numeros
+Para interactuar con la aplicacion de la calculadora de Windows.
